@@ -1,6 +1,6 @@
 public class AutoSkelbimas {
 
-    String autoMarke;
+    String autoMarke; //jsdfkbsg
     String autoModelis;
     String autoData;
     String skelbimoData;
