@@ -1,6 +1,6 @@
 public class AutoSkelbimas {
 
-    String autoMarke; //jsdfkbsg
+    String autoMarke;
     String autoModelis;
     String autoData;
     String skelbimoData;
@@ -54,7 +54,6 @@ public class AutoSkelbimas {
 
     public void setAutomobilioModelis(String automobilioModelis) {
         this.automobilioModelis = automobilioModelis;
-
     }
 
     public int getAutoKaina() {
